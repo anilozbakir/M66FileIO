@@ -1,0 +1,11 @@
+C:\Users\Anil\Documents\Visual Studio 2017\Projects\M66FileIO\M66FileIO\obj\Debug\M66FileIO.csprojAssemblyReference.cache
+C:\Users\Anil\Documents\Visual Studio 2017\Projects\M66FileIO\M66FileIO\obj\Debug\M66FileIO.csproj.CoreCompileInputs.cache
+C:\Users\Anil\Documents\Visual Studio 2017\Projects\M66FileIO\M66FileIO\bin\Debug\M66FileIO.dll
+C:\Users\Anil\Documents\Visual Studio 2017\Projects\M66FileIO\M66FileIO\bin\Debug\M66FileIO.pdb
+C:\Users\Anil\Documents\Visual Studio 2017\Projects\M66FileIO\M66FileIO\obj\Debug\M66FileIO.dll
+C:\Users\Anil\Documents\Visual Studio 2017\Projects\M66FileIO\M66FileIO\obj\Debug\M66FileIO.pdb
+C:\Users\Anil\Documents\Visual Studio 2017\Projects\M66FileIO\M66FileIO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anil\Documents\Visual Studio 2017\Projects\M66FileIO\M66FileIO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anil\Documents\Visual Studio 2017\Projects\M66FileIO\M66FileIO\obj\Debug\M66FileIO.csproj.CopyComplete
+C:\Users\Anil\Documents\Visual Studio 2017\Projects\M66FileIO\M66FileIO\bin\Debug\TextReadWrite.dll
+C:\Users\Anil\Documents\Visual Studio 2017\Projects\M66FileIO\M66FileIO\bin\Debug\TextReadWrite.pdb
